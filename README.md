@@ -48,10 +48,8 @@ I should be able to Code/Understand:
 
 ### Links
 
-- Solution Github URL: [https://github.com/Rod-Barbosa/lead-saver-chrome-extension](https://github.com/Rod-Barbosa/lead-saver-chrome-extension)
-- Live Site URL: [https://rodrigo-lead-saver-chrome-extension.netlify.app/](https://rodrigo-lead-saver-chrome-extension.netlify.app/)
-- May hte next one do a better job at translating a browser extension into a website. 
-- If you want to install and see how it works, click the github link, download the files, open your google chrome extensions and point the downloads folder. It should do the trick.
+- Solution Github URL: [https://github.com/Rod-Barbosa/WarGame](https://github.com/Rod-Barbosa/WarGame)
+- Live Site URL: [https://rodrigo-game-of-war.netlify.app/](https://rodrigo-game-of-war.netlify.app/)
 
 ## My process
 
