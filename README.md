@@ -23,7 +23,7 @@ This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of
 
 A game of war: Each player draws a card, highest value wins. At the end of the deck, the player with most points winds
 
-Users should be able to Code/Understand:
+I should be able to Code/Understand:
 
 - CALLBACKS
 - Functions as first-class objects
